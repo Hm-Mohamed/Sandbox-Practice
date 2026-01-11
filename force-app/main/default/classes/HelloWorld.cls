@@ -7,7 +7,7 @@
 **/
 public class HelloWorld {
     
-
+    // Méthode simple pour afficher un message
     public static String sayHello(String name) {
         return 'Hello, ' + name + '! Welcome to Salesforce!';
     }
